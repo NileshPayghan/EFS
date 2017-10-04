@@ -1,0 +1,19 @@
+Encrypting File System (EFS) 
+
+This file system creates and original files into the encrypted format
+with the public and private key using the different kind of algorithms
+
+so while encryping the data we have to careful about the changing the original data
+and decrypting the ecrypted data
+
+1. First Encrypt the single character with the single key
+
+2. Second Enecrypt the character array with the single key and decrypt the array again
+	same array used do not store result into another array
+
+3.Third one is create an Chacter array and takes multiple keys and encrypt the Character array
+
+4.Next is Take data as well as it's private key and encrypt data by its private key
+	and decrypt the data by using it's private key.
+
+5.take the name of the file from user and ecnrypt that file in place and decrypt that file in place with single key then use multiple key
